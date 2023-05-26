@@ -1,0 +1,15 @@
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\bin\Debug\net6.0\Orientacao.Lista.exe
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\bin\Debug\net6.0\Orientacao.Lista.deps.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\bin\Debug\net6.0\Orientacao.Lista.runtimeconfig.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\bin\Debug\net6.0\Orientacao.Lista.dll
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\bin\Debug\net6.0\Orientacao.Lista.pdb
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\obj\Debug\net6.0\Orientacao.Lista.csproj.AssemblyReference.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\obj\Debug\net6.0\Orientacao.Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\obj\Debug\net6.0\Orientacao.Lista.AssemblyInfoInputs.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\obj\Debug\net6.0\Orientacao.Lista.AssemblyInfo.cs
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\obj\Debug\net6.0\Orientacao.Lista.csproj.CoreCompileInputs.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\obj\Debug\net6.0\Orientacao.Lista.dll
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\obj\Debug\net6.0\refint\Orientacao.Lista.dll
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\obj\Debug\net6.0\Orientacao.Lista.pdb
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\obj\Debug\net6.0\Orientacao.Lista.genruntimeconfig.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Lista\obj\Debug\net6.0\ref\Orientacao.Lista.dll
